@@ -1,0 +1,52 @@
+#wikipedia {
+  color: #0b0080;
+}
+
+a {
+  color:#0b0080;
+}
+
+#featured {
+  background-color:#f5fffa;
+}
+#news {
+  background-color: #f5faff;
+}
+.newsimg {
+  float:right;
+}
+
+body {
+  margin: 0.5em 0;
+  padding: 0.7em;
+
+}
+
+h2 {
+  font-size: 17px;
+  padding: 0.2em 0.4em;
+  font-style:bold;
+  margin: 0.5em 0;
+}
+
+h2.featured {
+  background-color:#cef2e0;
+  border-style:solid;
+  border-width:1px;
+  border-color:#a3bfb1;
+}
+h2.news {
+  background-color:#cedff2;
+  border-style:solid;
+  border-width:1px;
+  border-color:#a3b0bf;
+
+}
+.thumbcaption {
+  float:inherit;
+}
+.featuredimg {
+  float:left;
+  margin-right: 7px;
+  margin-bottom: auto;
+}
